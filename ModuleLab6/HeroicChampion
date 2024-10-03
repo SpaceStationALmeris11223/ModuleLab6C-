@@ -1,0 +1,11 @@
+using System;
+
+namespace Module6Lab{
+    internal class HeroicChampion : Player{//== Heroic champion is the child of player
+    //additonal propertires
+    //This method is specific to SuperPlayer (it doesn't exist in the parent class of player)
+        public void Fly(){ // void because it doesn't return a value
+        Console.WriteLine("HeroicChampion is Flying!");
+        }//end Method
+    }
+}

@@ -1,0 +1,15 @@
+/workspaces/ModuleLab6C-/ModuleLab6/bin/Debug/net8.0/ModuleLab6
+/workspaces/ModuleLab6C-/ModuleLab6/bin/Debug/net8.0/ModuleLab6.deps.json
+/workspaces/ModuleLab6C-/ModuleLab6/bin/Debug/net8.0/ModuleLab6.runtimeconfig.json
+/workspaces/ModuleLab6C-/ModuleLab6/bin/Debug/net8.0/ModuleLab6.dll
+/workspaces/ModuleLab6C-/ModuleLab6/bin/Debug/net8.0/ModuleLab6.pdb
+/workspaces/ModuleLab6C-/ModuleLab6/obj/Debug/net8.0/ModuleLab6.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ModuleLab6C-/ModuleLab6/obj/Debug/net8.0/ModuleLab6.AssemblyInfoInputs.cache
+/workspaces/ModuleLab6C-/ModuleLab6/obj/Debug/net8.0/ModuleLab6.AssemblyInfo.cs
+/workspaces/ModuleLab6C-/ModuleLab6/obj/Debug/net8.0/ModuleLab6.csproj.CoreCompileInputs.cache
+/workspaces/ModuleLab6C-/ModuleLab6/obj/Debug/net8.0/ModuleLab6.sourcelink.json
+/workspaces/ModuleLab6C-/ModuleLab6/obj/Debug/net8.0/ModuleLab6.dll
+/workspaces/ModuleLab6C-/ModuleLab6/obj/Debug/net8.0/refint/ModuleLab6.dll
+/workspaces/ModuleLab6C-/ModuleLab6/obj/Debug/net8.0/ModuleLab6.pdb
+/workspaces/ModuleLab6C-/ModuleLab6/obj/Debug/net8.0/ModuleLab6.genruntimeconfig.cache
+/workspaces/ModuleLab6C-/ModuleLab6/obj/Debug/net8.0/ref/ModuleLab6.dll
